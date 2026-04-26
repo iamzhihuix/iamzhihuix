@@ -14,13 +14,15 @@
 
 ## 👋 关于我
 
-中文 AI 副业玩家 / Claude Code 重度用户 / Obsidian 知识体系践行者。
+中文 AI 副业玩家 / Factory Droid 重度玩家 / Claude Code & Obsidian 工作流构建者。
 
 - 🛠️ **正在做** — 让 AI Coding Agent 的 Skills 跨平台管理变简单
-- 🌱 **正在学** — Claude Skills 工程化、飞书 CLI 工具链、独立开发出海
+- 🌱 **正在玩** — Factory Droid 多账号工作流、Claude Skills 工程化、飞书 CLI 工具链
 - 📝 **正在写** — Obsidian → 公众号 / X / 知乎 多平台分发工作流
 - 💬 **聊聊** — AI 工具开发、Skills 生态、独立开发副业
-- 📫 **找我** — [tomai.adson@gmail.com](mailto:tomai.adson@gmail.com)
+- 🌐 **个人主页** — [iamzhihui.com](https://iamzhihui.com/)
+- 🐦 **X / Twitter** — [@iamzhihui](https://x.com/iamzhihui)
+- 📫 **邮箱** — [tomai.adson@gmail.com](mailto:tomai.adson@gmail.com)
 
 ---
 
@@ -138,9 +140,10 @@ AI 时代的 **Obsidian 知识库模板**——PARA + Zettelkasten + 35 个 Skil
 
 <div align="center">
 
-### 💡 如果你也在玩 Claude Code、做 AI 副业,欢迎来 Follow 我
+### 💡 如果你也在玩 Factory Droid / Claude Code、做 AI 副业,欢迎来 Follow 我
 
-[![X](https://img.shields.io/badge/-X-000000?style=for-the-badge&logo=x&logoColor=white)](https://x.com/)
+[![Website](https://img.shields.io/badge/-Website-4285F4?style=for-the-badge&logo=googlechrome&logoColor=white)](https://iamzhihui.com/)
+[![X](https://img.shields.io/badge/-@iamzhihui-000000?style=for-the-badge&logo=x&logoColor=white)](https://x.com/iamzhihui)
 [![Email](https://img.shields.io/badge/-Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:tomai.adson@gmail.com)
 
 ![Footer](https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=80&section=footer)
