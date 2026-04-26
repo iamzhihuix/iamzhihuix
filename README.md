@@ -22,7 +22,7 @@
 - 💬 **聊聊** — AI 工具开发、Skills 生态、独立开发副业
 - 🌐 **个人主页** — [iamzhihui.com](https://iamzhihui.com/)
 - 🐦 **X / Twitter** — [@iamzhihui](https://x.com/iamzhihui)
-- 📫 **邮箱** — [tomai.adson@gmail.com](mailto:tomai.adson@gmail.com)
+- 📫 **邮箱** — [iamzhihuix@gmail.com](mailto:iamzhihuix@gmail.com)
 
 ---
 
@@ -144,7 +144,7 @@ AI 时代的 **Obsidian 知识库模板**——PARA + Zettelkasten + 35 个 Skil
 
 [![Website](https://img.shields.io/badge/-Website-4285F4?style=for-the-badge&logo=googlechrome&logoColor=white)](https://iamzhihui.com/)
 [![X](https://img.shields.io/badge/-@iamzhihui-000000?style=for-the-badge&logo=x&logoColor=white)](https://x.com/iamzhihui)
-[![Email](https://img.shields.io/badge/-Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:tomai.adson@gmail.com)
+[![Email](https://img.shields.io/badge/-Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:iamzhihuix@gmail.com)
 
 ![Footer](https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=80&section=footer)
 
